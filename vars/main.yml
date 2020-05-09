@@ -1,0 +1,10 @@
+---
+# vars file for aws
+
+      instance_type: t2.micro
+      security_group: web
+      image: ami-0323c3dd2da7fb37d
+      region: us-east-1
+      keypair: awsans
+      count: 1 
+     
